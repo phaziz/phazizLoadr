@@ -1,0 +1,24 @@
+{
+    "name" : "phazizLoadr",
+    "author": {
+        "name": "Christian Becher | phaziz.com",
+        "url": "http://phaziz.com"
+    },
+    "version" : "1.0.0",
+    "title" : "phazizLoadr - Load JSON-defined HTML-Content into DIV's.",
+    "email" : "phaziz@gmail.com",
+	"licenses": [
+    	{
+        	"type": "DO THE FUCK WHAT YOU WANT",
+        	"url": "http://phaziz.com"
+    	}
+	],
+	"description" : "Load JSON-defined HTML-Content into DIV's.",
+	"keywords" : ["JSON","HTML","Load","Loadr","Content-Loader","Loader"],
+    "url" : "http://phaziz.com/",
+    "download" : "http://phaziz.com/",
+    "docs" : "http://phaziz.com/",
+	"dependencies": {
+        "jquery": ">=1.9"
+    }
+}
