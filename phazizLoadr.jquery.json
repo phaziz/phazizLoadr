@@ -2,9 +2,9 @@
     "name" : "phazizLoadr",
     "author": {
         "name": "Christian Becher | phaziz.com",
-        "url": "http://phaziz.com"
+        "url": "http://phaziz.com/"
     },
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "title" : "phazizLoadr - Load JSON-defined HTML-Content into DIV's.",
     "email" : "phaziz@gmail.com",
 	"licenses": [
@@ -16,8 +16,11 @@
 	"description" : "Load JSON-defined HTML-Content into DIV's.",
 	"keywords" : ["JSON","HTML","Load","Loadr","Content-Loader","Loader"],
     "url" : "http://phaziz.com/",
-    "download" : "https://github.com/phaziz/phazizLoadr",
-    "docs" : "https://github.com/phaziz/phazizLoadr",
+	"bugs": "https://github.com/phaziz/phazizLoadr/issues",
+	"homepage": "http://phaziz.com/phaziz-loadr/",
+	"demo": "http://demo.phaziz.com/phazizLoadr/demo/",
+	"docs": "https://github.com/phaziz/phazizLoadr/",
+	"download": "https://github.com/phaziz/phazizLoadr/archive/master.zip",
 	"dependencies": {
         "jquery": ">=1.9"
     }
