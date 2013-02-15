@@ -9,19 +9,18 @@ A jQuery-Plugin to load JSON-filed Content into several divs of a Website the aj
 
 Usage?
 ======
-<script src="./path-to-jquery/jquery-1.9.1.min.js"></script>
-<script src="./path-to-phazizLoadr/jquery.phazizLoadr-1.0.0.min.js"></script>
-<script>
-    /*********************************************************************/
-	$(function() {
-        $('.container1,.container2,.container3,.container4').phazizLoadr({
-            fadeInSpeed     :       1750,
-            loadurl         :       './json/container2.json',
-            consoleDebug    :       true
-        });
-    });
-   /***********************************************************************/
-</script>
+&lt;script src="./path-to-jquery/jquery-1.9.1.min.js"&gt;&lt;/script&gt;
+&lt;script src="./path-to-phazizLoadr/jquery.phazizLoadr-1.0.0.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    
+	$(function() {<br />
+        $('.container1,.container2,.container3,.container4').phazizLoadr({<br />
+            fadeInSpeed     :       1750,<br />
+            loadurl         :       './json/container2.json',<br />
+            consoleDebug    :       true<br />
+        });<br />
+    });<br />
+&lt;/script&gt;
 
 
 Options?
@@ -33,16 +32,16 @@ consoleDebug: Wan't Output in Your Console? true | false
 
 Sample JSON-FILE?
 =================
-[
-	{
-		"CONTENT":"<h1>Container1.txt</h1><p>Lorem ipsum ...</p>"
-	}
-]
+[<br />
+	{<br />
+		"CONTENT":"Container1.txt [...] Lorem ipsum ..."<br />
+	}<br />
+]<br />
 
 
 Demo?
 =====
-http://demo.phaziz.com/phazizLoadr/demo/
+http://demo.phaziz.com/phazizLoadr/demo/<br />
 Take a Look at the Source Code and enjoy!
 
 
