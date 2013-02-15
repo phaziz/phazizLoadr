@@ -16,8 +16,8 @@
 	"description" : "Load JSON-defined HTML-Content into DIV's.",
 	"keywords" : ["JSON","HTML","Load","Loadr","Content-Loader","Loader"],
     "url" : "http://phaziz.com/",
-    "download" : "http://phaziz.com/",
-    "docs" : "http://phaziz.com/",
+    "download" : "https://github.com/phaziz/phazizLoadr",
+    "docs" : "https://github.com/phaziz/phazizLoadr",
 	"dependencies": {
         "jquery": ">=1.9"
     }
