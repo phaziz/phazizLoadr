@@ -4,27 +4,27 @@
 A jQuery-Plugin to load JSON-filed Content into several divs of a Website the ajax-way.
 
 ## Usage?
-&lt;script src="./path-to-jquery/jquery-1.9.1.min.js"&gt;&lt;/script&gt;  
-
-&lt;script src="./path-to-phazizLoadr/jquery.phazizLoadr-1.0.0.min.js"&gt;&lt;/script&gt;  
-
-&lt;script&gt;    
-  
-	$(function() {  
-	
-        $('.container1,.container2,.container3,.container4').phazizLoadr({  
-        
-            fadeInSpeed     :       1750,  
-            
-            loadurl         :       './json/container2.json',  
-            
-            consoleDebug    :       true  
-            
-        });  
-        
-	});  
-
-&lt;/script&gt;
+> &lt;script src="./path-to-jquery/jquery-1.9.1.min.js"&gt;&lt;/script&gt;  
+>
+> &lt;script src="./path-to-phazizLoadr/jquery.phazizLoadr-1.0.0.min.js"&gt;&lt;/script&gt;  
+>
+> &lt;script&gt;    
+>  
+>	$(function() {  
+>	
+>        $('.container1,.container2,.container3,.container4').phazizLoadr({  
+>        
+>            fadeInSpeed     :       1750,  
+>            
+>            loadurl         :       './json/container2.json',  
+>            
+>            consoleDebug    :       true  
+>            
+>        });  
+>        
+>	});  
+>
+> &lt;/script&gt;
 
 ## Options?
 fadeInSpeed: Speed of Animation fadeIn()  
@@ -35,15 +35,15 @@ consoleDebug: Wan't Output in Your Console? true | false
 
 
 # Sample JSON-FILE?
-[  
-
-	{  
-
-		"CONTENT":"Container1.txt [...] Lorem ipsum ..."  
-
-	}  
-	
-]  
+> [  
+>
+>	{  
+>
+>		"CONTENT":"Container1.txt [...] Lorem ipsum ..."  
+>
+>	}  
+>	
+> ]  
 
 
 
