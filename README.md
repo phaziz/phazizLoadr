@@ -44,10 +44,6 @@ consoleDebug: Wan't Output in Your Console? true | false
 >	
 > ]  
 
-## Demo?
-http://demo.phaziz.com/phazizLoadr/demo/<br />
-Take a Look at the Source Code and enjoy!
-
 ## License?
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 Version 2, December 2004
